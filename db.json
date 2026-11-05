@@ -400,20 +400,6 @@
   ],
   "plantLibrary": [
     {
-      "id": "lib1",
-      "commonName": "Peace Lily",
-      "scientificName": "Spathiphyllum wallisii",
-      "category": "Flowering",
-      "description": "Elegant white blooms; thrives in indirect light.",
-      "sunlight": "Low to Indirect",
-      "watering": "Weekly",
-      "soil": "Well-draining potting mix",
-      "humidity": "High",
-      "temperature": "18–27°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1593691509543-c55fb32e5cee?w=800"
-    },
-    {
       "id": "lib2",
       "commonName": "Aloe Vera",
       "scientificName": "Aloe barbadensis",
@@ -440,34 +426,6 @@
       "temperature": "15–25°C",
       "difficulty": "Medium",
       "image": "https://images.unsplash.com/photo-1611909023032-2d6b3134ecba?w=800"
-    },
-    {
-      "id": "lib4",
-      "commonName": "Mint",
-      "scientificName": "Mentha spicata",
-      "category": "Medicinal",
-      "description": "Cooling herb for teas and digestive health.",
-      "sunlight": "Partial Sun",
-      "watering": "Frequent",
-      "soil": "Moist, rich soil",
-      "humidity": "Medium",
-      "temperature": "13–21°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1628627270911-b0d3ccdcb24e?w=800"
-    },
-    {
-      "id": "lib5",
-      "commonName": "Orchid",
-      "scientificName": "Phalaenopsis",
-      "category": "Flowering",
-      "description": "Exotic blooms that last for months indoors.",
-      "sunlight": "Indirect",
-      "watering": "Weekly (ice cube)",
-      "soil": "Orchid bark mix",
-      "humidity": "High",
-      "temperature": "18–24°C",
-      "difficulty": "Medium",
-      "image": "https://images.unsplash.com/photo-1566907225472-5142d2c68b3a?w=800"
     },
     {
       "id": "lib6",
@@ -526,20 +484,6 @@
       "image": "https://images.unsplash.com/photo-1470509037663-253afd7f0f51?w=800"
     },
     {
-      "id": "lib10",
-      "commonName": "Jasmine",
-      "scientificName": "Jasminum officinale",
-      "category": "Flowering",
-      "description": "Sweet-scented white flowers; calming aroma.",
-      "sunlight": "Full Sun",
-      "watering": "Weekly",
-      "soil": "Well-draining soil",
-      "humidity": "Medium",
-      "temperature": "15–25°C",
-      "difficulty": "Medium",
-      "image": "https://images.unsplash.com/photo-1592578629295-73a1512d1e5f?w=800"
-    },
-    {
       "id": "lib11",
       "commonName": "Snake Plant",
       "scientificName": "Dracaena trifasciata",
@@ -552,34 +496,6 @@
       "temperature": "15–30°C",
       "difficulty": "Easy",
       "image": "https://images.unsplash.com/photo-1593482892290-f54927ae1bb6?w=800"
-    },
-    {
-      "id": "lib12",
-      "commonName": "Calendula",
-      "scientificName": "Calendula officinalis",
-      "category": "Medicinal",
-      "description": "Heals skin; bright orange flowers.",
-      "sunlight": "Full Sun",
-      "watering": "Weekly",
-      "soil": "Loamy soil",
-      "humidity": "Medium",
-      "temperature": "10–20°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1592578629295-73a1512d1e5f?w=800"
-    },
-    {
-      "id": "lib13",
-      "commonName": "Chamomile",
-      "scientificName": "Matricaria chamomilla",
-      "category": "Medicinal",
-      "description": "Calming tea herb; promotes sleep.",
-      "sunlight": "Partial Sun",
-      "watering": "Weekly",
-      "soil": "Well-draining",
-      "humidity": "Medium",
-      "temperature": "15–22°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1592578629295-73a1512d1e5f?w=800"
     },
     {
       "id": "lib14",
@@ -610,104 +526,6 @@
       "image": "https://images.unsplash.com/photo-1602923668104-8f9e03e77e62?w=800"
     },
     {
-      "id": "lib16",
-      "commonName": "Echinacea",
-      "scientificName": "Echinacea purpurea",
-      "category": "Medicinal",
-      "description": "Immune-boosting purple coneflower.",
-      "sunlight": "Full Sun",
-      "watering": "Weekly",
-      "soil": "Well-draining",
-      "humidity": "Low",
-      "temperature": "15–25°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1592578629295-73a1512d1e5f?w=800"
-    },
-    {
-      "id": "lib17",
-      "commonName": "Ginger",
-      "scientificName": "Zingiber officinale",
-      "category": "Medicinal",
-      "description": "Root spice with anti-nausea properties.",
-      "sunlight": "Partial Sun",
-      "watering": "Weekly",
-      "soil": "Loose, rich soil",
-      "humidity": "High",
-      "temperature": "20–30°C",
-      "difficulty": "Medium",
-      "image": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=800"
-    },
-    {
-      "id": "lib18",
-      "commonName": "Dahlia",
-      "scientificName": "Dahlia pinnata",
-      "category": "Flowering",
-      "description": "Showy, layered blooms in many colors.",
-      "sunlight": "Full Sun",
-      "watering": "Twice weekly",
-      "soil": "Rich, well-draining",
-      "humidity": "Medium",
-      "temperature": "15–25°C",
-      "difficulty": "Medium",
-      "image": "https://images.unsplash.com/photo-1593691509543-c55fb32e5cee?w=800"
-    },
-    {
-      "id": "lib19",
-      "commonName": "Thyme",
-      "scientificName": "Thymus vulgaris",
-      "category": "Medicinal",
-      "description": "Culinary and medicinal herb; antimicrobial.",
-      "sunlight": "Full Sun",
-      "watering": "Bi-weekly",
-      "soil": "Sandy, dry",
-      "humidity": "Low",
-      "temperature": "15–25°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=800"
-    },
-    {
-      "id": "lib20",
-      "commonName": "Fiddle Leaf Fig",
-      "scientificName": "Ficus lyrata",
-      "category": "Foliage",
-      "description": "Large, violin-shaped leaves; dramatic indoor tree.",
-      "sunlight": "Bright Indirect",
-      "watering": "Weekly",
-      "soil": "Well-draining mix",
-      "humidity": "Medium",
-      "temperature": "18–27°C",
-      "difficulty": "Hard",
-      "image": "https://images.unsplash.com/photo-1597055181300-e3633a917c5b?w=800"
-    },
-    {
-      "id": "lib21",
-      "commonName": "Marigold",
-      "scientificName": "Tagetes erecta",
-      "category": "Flowering",
-      "description": "Pest-repelling flowers; easy to grow.",
-      "sunlight": "Full Sun",
-      "watering": "Weekly",
-      "soil": "Well-draining",
-      "humidity": "Low",
-      "temperature": "18–30°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1592578629295-73a1512d1e5f?w=800"
-    },
-    {
-      "id": "lib22",
-      "commonName": "Sage",
-      "scientificName": "Salvia officinalis",
-      "category": "Medicinal",
-      "description": "Aromatic herb for cooking and throat health.",
-      "sunlight": "Full Sun",
-      "watering": "Weekly",
-      "soil": "Sandy loam",
-      "humidity": "Low",
-      "temperature": "15–25°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1515586000433-45406d8e6662?w=800"
-    },
-    {
       "id": "lib23",
       "commonName": "Monstera",
       "scientificName": "Monstera deliciosa",
@@ -722,45 +540,7 @@
       "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=800"
     },
     {
-      "id": "lib24",
-      "commonName": "Lemon Balm",
-      "scientificName": "Melissa officinalis",
-      "category": "Medicinal",
-      "description": "Soothing herb for anxiety and sleep.",
-      "sunlight": "Partial Sun",
-      "watering": "Weekly",
-      "soil": "Moist soil",
-      "humidity": "Medium",
-      "temperature": "15–25°C",
-      "difficulty": "Easy",
-      "image": "https://images.unsplash.com/photo-1592578629295-73a1512d1e5f?w=800"
-    },
-    {
-      "id": "lib25",
-      "commonName": "Hyacinth",
-      "scientificName": "Hyacinthus orientalis",
-      "category": "Flowering",
-      "description": "Fragrant spring bulb with dense blooms.",
-      "sunlight": "Full Sun",
-      "watering": "Weekly",
-      "soil": "Well-draining",
-      "humidity": "Low",
-      "temperature": "10–20°C",
-      "difficulty": "Medium",
-      "image": "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=800"
-    },
-    {
-      "commonName": "hibiscus",
-      "scientificName": "hibiscus",
-      "category": "Flowering",
-      "description": "",
-      "sunlight": "Full Sun",
-      "watering": "Bi-weekly",
-      "difficulty": "Medium",
-      "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=800",
-      "id": "75qdslpOVzU"
-    },
-    {
+      "id": "gmsbwsrIKEw",
       "commonName": "adenia",
       "scientificName": "",
       "category": "Flowering",
@@ -768,8 +548,7 @@
       "sunlight": "Partial Sun",
       "watering": "Daily",
       "difficulty": "Hard",
-      "image": "https://i.etsystatic.com/34286555/r/il/fef720/4366026286/il_1080xN.4366026286_h0co.jpg",
-      "id": "gmsbwsrIKEw"
+      "image": "https://i.etsystatic.com/34286555/r/il/fef720/4366026286/il_1080xN.4366026286_h0co.jpg"
     }
   ],
   "notifications": [],
